@@ -151,7 +151,7 @@ function Header() {
     { href: '/om-oss', label: t('common:components.Header.about') },
     {
       href: 'https://beta.klimatkollen.se/blog',
-      label: t('common:components.Header.about'),
+      label: t('common:components.Header.insights'),
     },
     {
       href: 'https://klimatkollen.teamtailor.com/',
